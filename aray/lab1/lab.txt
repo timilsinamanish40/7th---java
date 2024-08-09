@@ -1,0 +1,8 @@
+Object: Being familiar with basic java programming concepts
+ problem:
+ 1)wap to find the area and perimeter of a rectangle using class, object and constructor
+ 2)wap to create custom package in java
+ 3)wap to demonstrate concept of exception handeling
+ 4)wap to display even numbers from 1 to 100 using thread class
+ 5)wap to count the vowel character in a sentence entered by user
+ 6)wap to test if number entered by user is palindrome or not
