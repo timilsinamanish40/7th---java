@@ -1,2 +1,3 @@
 wap to input name and display in the console, the program must throw exception if the namelength is shorter than 3 
 Ok
+Ok
